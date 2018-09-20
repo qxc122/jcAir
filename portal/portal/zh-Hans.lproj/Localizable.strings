@@ -1,0 +1,159 @@
+/*
+ Localizable.strings
+ portal
+ 
+ Created by Store on 2017/9/1.
+ Copyright © 2017年 qxc122@126.com. All rights reserved.
+ */
+
+
+"SUBMIT_BTN_TITLE" = "开始";
+
+"righht1" = "我的账户";
+"righht2" = "首页";
+"righht3" = "预订航班";
+"righht4" = "我的行程";
+"righht5" = "联系我们";
+"righht6" = "关于我们";
+"righht7" = "中文";
+"rightVcchagevctitle1Zh" = "更改为英文";
+"rightVcchagevctitle2Zh" = "保留简体中文";
+"rightVcchagevctitle1En" = "更改为中文";
+"rightVcchagevctitle2En" = "保留英文";
+"rightVcchagevc" = "您要更改App的语言吗";
+"rightVcquxiao" = "取消";
+"registVcHead1" = "登录信息";
+"registVcHead2" = "我的资料";
+"registVcHead3" = "联系方式";
+"registVcOnecell1" = "请输入邮箱地址";
+"registVcOnecell2" = "请输入密码";
+"registVcOnecell3" = "请再次输入密码";
+"registVcTwocell2" = "请输入证件上的英文名";
+"registVcTwocell3" = "请输入证件上的英文姓";
+"registVcTwocell4" = "出生日期";
+"registVcTwocell5" = "国籍";
+"registVcTwoSexMan" = "  先生";
+"registVcTwoSexWoMan" = "  女士";
+"registVcThreecell1County" = "国家／地区";
+"registVcThreecell2" = "手机号码";
+"registVctitle" = "注册";
+"loginVcFootLogin" = "登录";
+"loginVcFootgegist" = "注册";
+"loginVcFootGuest" = "以游客身份访问";
+"loginVccell1" = "请输入注册的邮箱地址";
+"loginVccell2" = "请输入登录密码";
+"loginVctitle" = "登录";
+
+"nextOne" = "下一步";
+"nextTwo" = "下一步";
+"nextThree" = "确认";
+
+"selecetCountyVctitle" = "选择国籍";
+"selecetAreaVctitle" = "选择区号";
+"NONEAreaArry" = "没有区号数据";
+"NONEcountyArry" = "没有国籍数据";
+"datePikercancel" = "取消";
+"datePikerDetermine" = "确定";
+
+"zhucezhogn" = "注册中...";
+"zhucesuccesregistVc" = "注册成功";
+"dengluzhong" = "登录中...";
+"dengluzhongOK" = "登录成功";
+
+
+"tuichuzhogn" = "退出中...";
+"tuichuzhognOK" = "退出成功";
+
+"hi" = "嗨，";
+
+"MyaccountVccell1" = "我的资料";
+"MyaccountVccell2" = "我的旅行证件";
+"MyaccountVccell3" = "常用旅客";
+"MyaccountVctitle" = "我的账户";
+
+"mainVcDengdai" = "数据加载中...";
+"huanying" = "欢迎回来，";
+"hangbang" = "  预订航班";
+"hangcheng" = "  我的行程";
+"dengluzhuce" = "注册／登录";
+
+"MyaccountVcout" = "退出";
+
+"modififyInfotitle" = "我的资料";
+"modififyInfotitlesave" = "保存";
+
+"modififyInfoCellTitle1" = "称呼";
+"modififyInfoCellTitle2" = "英文名";
+"modififyInfoCellTitle3" = "英文姓";
+"modififyInfoCellTitle4" = "出生日期";
+"modififyInfoCellTitle5" = "国籍";
+"modififyInfoCellTitle6" = "手机号码";
+
+"modififyInfoCell1" = "";
+"modififyInfoCell2" = "证件上的英文名";
+"modififyInfoCell3" = "证件上的英文姓";
+"modififyInfoCell4" = "";
+"modififyInfoCell5" = "";
+"modififyInfoCell6" = "手机号码";
+
+"baocunzhogn" = "保存中..";
+"baocunzhognOK" = "修改成功";
+
+"NOneWx" = "您没有安装微信";
+"ningyedenglu" = "您已经登录";
+
+
+
+"woyiyuedubingtongyi" = "我已阅读并同意";
+"yingshitiaoyue" = "隐私政策";
+"dian" = " 、";
+"fuwutiaoyue" = "旅客和行李国际运输总条件";
+"juhao" = "。";
+"wuxiaodedizhi" = "无效的地址";
+
+"registVcOnePassNO" = "两次输入密码不一致";
+"qignshuruzhengEmai" = "请输入正确的邮箱";
+"youxjiaoyangzohbng" = "邮箱较验中...";
+"mimichangdeng" = "请输入6-20位的数字和英文字母";
+"shoujihaocuowu" = "请输入正确的手机号";
+
+"WxPayqueshsose" = "缺少参数";
+
+"wechatPaySuccess" = "支付成功";
+"wechatPayUserCancel" = "您取消了支付";
+"wechatPayFaild" = "支付成功";
+"dianhaobushizhifuc" = "电话号码不是有效数字";
+"enter" = "进入";
+
+"dataquxiao" = "取消";
+"dataqueding" = "确定";
+
+"fanewversong" = "发现新版本";
+"gotoAppStore" = "去升级";
+"quxiaoAppstore" = "取消";
+
+
+
+"zangwushujusdf" = "暂无数据 ";
+"ningdewagnluoweiliangjie" = "您的网络未连接";
+"wufuwikaixiaochale" = "服务器开小差了,请重试";
+"jianchashezhi" = "检查设置 ";
+"chognxingjiazai" = "重新加载";
+"tishi" = "提示";
+"quedingggg" = "确定";
+"qignqueren" = "请确认";
+"H5queding" = "确定";
+"H5quxiao" = "取消";
+"H5shurukuang" = "输入框";
+"H5shuruok" = "确定";
+"fuwuqifanghuishujuweinil" = "服务器返回数据为空";
+
+"NOneNet" = "您的网络未连接";
+"quedingNet" = "确定";
+"quxiaoNet" = "取消";
+"qignjianchashezhi" = "去检查";
+"ningdezhnghuyjbuzaile" = "您的账户被删除";
+
+"registVcTwoSdsffsdfexWoMan" = "";
+
+

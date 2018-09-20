@@ -1,0 +1,25 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.0'
+
+target 'portal' do
+pod 'AFNetworking'
+pod 'Base64nl'
+pod 'OpenUDID'
+pod 'MJRefresh'
+pod 'Masonry'
+pod 'DZNEmptyDataSet'
+pod 'SZTextView'                            # 带 placeHolderText 的 UITextView
+pod 'UITableView+FDTemplateLayoutCell'     # UITableViewCell 自动高度计算，缓存
+pod 'FDFullscreenPopGesture'
+pod 'IQKeyboardManager'
+pod 'MJExtension'
+pod 'YYText'
+pod 'MBProgressHUD'
+pod 'SDWebImage'
+#pod 'SDCycleScrollView'
+#
+#pod 'NSDate-Extensions'
+pod 'WechatOpenSDK'
+pod 'DateTools'
+pod 'WechatOpenSDK'
+end

@@ -1,0 +1,169 @@
+/*
+ Localizable.strings
+ portal
+
+ Created by Store on 2017/9/1.
+ Copyright © 2017年 qxc122@126.com. All rights reserved.
+ */
+
+
+"SUBMIT_BTN_TITLE" = "Go";
+
+
+
+
+
+"huanying" = "Welcome,";
+"hangbang" = "  Book a flight ";
+"hangcheng" = "  My bookings";
+"dengluzhuce" = "Register / Login ";
+
+"righht1" = "My account";
+"righht2" = "Home";
+"righht3" = "Book a flight";
+"righht4" = "My bookings";
+"righht5" = "Contact us";
+"righht6" = "About us";
+"righht7" = "English";
+
+
+"woyiyuedubingtongyi" = "I have clearly known and agreed ";
+"yingshitiaoyue" = "Privacy Policy";
+"dian" = " and ";
+"fuwutiaoyue" = "General Conditions Of Carriage";
+"juhao" = ".";
+
+
+"nextOne" = "Next";
+"nextTwo" = "Next";
+"nextThree" = "Confirm";
+
+"registVcHead1" = "Login details";
+"registVcHead2" = "Personal details";
+"registVcHead3" = "Contact details";
+"registVcOnecell1" = "Enter e-mail address";
+"registVcOnecell2" = "Enter 6-20 alphanumeric password";
+"registVcOnecell3" = "Re-enter password";
+
+"registVcTwocell2" = "Last name as your passport";
+"registVcTwocell3" = "First name as your passort";
+"registVcTwocell4" = "Date of birth";
+"registVcTwocell5" = "Nationality";
+"registVcTwoSexMan" = "  Mr";
+"registVcTwoSexWoMan" = "  Ms";
+"registVcThreecell1County" = "Country/Region";
+"registVcThreecell2" = "Mobile phone number";
+"registVctitle" = "Registration";
+
+
+"loginVcFootLogin" = "Login";
+"loginVcFootgegist" = "Join us";
+"loginVcFootGuest" = "Continue as guest";
+"loginVccell1" = "Enter registered E-mail address";
+"loginVccell2" = "Enter password";
+"loginVctitle" = "Login";
+
+"hi" = "Hi,";
+"MyaccountVctitle" = "My account";
+"MyaccountVccell1" = "My profile";
+"MyaccountVccell2" = "My travel document";
+"MyaccountVccell3" = "Frequent passenger";
+"MyaccountVcout" = "Logout";
+
+
+"modififyInfotitle" = "My profile";
+"modififyInfotitlesave" = "Save";
+
+"modififyInfoCellTitle1" = "Title";
+"modififyInfoCellTitle2" = "First name";
+"modififyInfoCellTitle3" = "Last name";
+"modififyInfoCellTitle4" = "Date of birth";
+"modififyInfoCellTitle5" = "Nationality";
+"modififyInfoCellTitle6" = "Mobile phone";
+
+
+"modififyInfoCell1" = "";
+"modififyInfoCell2" = "First name as your certificate";
+"modififyInfoCell3" = "Last name as your certificate";
+"modififyInfoCell4" = "";
+"modififyInfoCell5" = "";
+"modififyInfoCell6" = "phone number";
+
+"enter" = "Enter";
+
+
+
+"baocunzhogn" = "The information is saving...";
+"baocunzhognOK" = "Revise successfully";
+
+"NOneWx" = "WeChat APP is not installed.";
+"ningyedenglu" = "You have Logined.";
+
+
+"registVcOnePassNO" = "The password is not the same.";
+"qignshuruzhengEmai" = "Please enter the correct E-mail.";
+"youxjiaoyangzohbng" = "The E-mail address is verifying....";
+"mimichangdeng" = "Please enter 6-20 digits and English letters.";
+
+"shoujihaocuowu" = "Please enter the correct phone number";
+
+"WxPayqueshsose" = "Lack parameter";
+
+"wechatPaySuccess" = "Pay successfully";
+"wechatPayUserCancel" = "You have canceled the payment.";
+"wechatPayFaild" = "Pay successfully";
+"dianhaobushizhifuc" = "The phone number is invalid.";
+
+
+
+"rightVcchagevctitle1Zh" = "Change to English";
+"rightVcchagevctitle2Zh" = "Keep in simplified Chinese";
+"rightVcchagevctitle1En" = "Change to simplified Chinese";
+"rightVcchagevctitle2En" = "Keep in English";
+"rightVcchagevc" = "Do you want to change the language of your App.";
+"rightVcquxiao" = "Cancel";
+"wuxiaodedizhi" = "Invalid address";
+"mainVcDengdai" = "Loading...";
+
+"zhucezhogn" = "Registering...";
+"zhucesuccesregistVc" = "Register successfully";
+"dengluzhong" = "Login...";
+"dengluzhongOK" = "Login successfully";
+"tuichuzhogn" = "Logout...";
+"tuichuzhognOK" = "Logout successfully";
+
+"dataquxiao" = "Cancel";
+"dataqueding" = "Done";
+
+"datePikercancel" = "Cancel";
+"datePikerDetermine" = "Done";
+
+
+"SelecetCountyVctitle" = "choice of nationality";
+"SelecetAreaVctitle" = "selected area code";
+"NONEAreaArry" = "no area code data";
+"NONEcountyArry" = "no nationality data";
+"fanewversong" = "find a new version";
+"gotoAppStore" = "to upgrade";
+"quxiaoAppstore" = "Cancel";
+"Zangwushujusdf" = "no data";
+"Ningdewagnluoweiliangjie" = "your network is not connected";
+"Wufuwikaixiaochale" = "the server is down, please try again.";
+"Jianchashezhi" = "check setting";
+"Chognxingjiazai" = "reload";
+"Tishi" = "hint";
+"Quedingggg" = "sure";
+"Qignqueren" = "please confirm";
+"H5queding" = "sure";
+"H5quxiao" = "Cancel";
+"H5shurukuang" = "input box";
+"H5shuruok" = "sure";
+"Fuwuqifanghuishujuweinil" = "the server returns the data to be empty";
+"NOneNet" = "your network is not connected";
+"QuedingNet" = "sure";
+"QuxiaoNet" = "Cancel";
+"Qignjianchashezhi" = "go check";
+"Ningdezhnghuyjbuzaile" = "your account is deleted";
+
+
+
